@@ -1,7 +1,7 @@
 # NLP_Keras_Example
 NLP Keras example showing text tokenization and basic sigmoid classification.
 
-The following notebook shows a simple Natural Language Processing (NLP) classification for identifying Tweets about natural disasters as real versus non-real or unrelated.  For details about the classification as a machine learning example, for the source datasets, or for other similar exampmle see:
+The following notebook shows a simple Natural Language Processing (NLP) classification for identifying Tweets about natural disasters as real versus non-real or unrelated.  For details about the classification as a machine learning example, for the source datasets, or for other similar example see:
 
 https://www.kaggle.com/c/nlp-getting-started
 
